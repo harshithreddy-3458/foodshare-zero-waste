@@ -76,3 +76,4 @@ VITE_API_URL=http://localhost:5000/api
 - This is a learning/demo starter, not a production-ready food safety or identity-verification system.
 - Add authentication, row-level security policies, moderation, and validation before public deployment.
 - Do not publish secrets or commit `.env` files.
+# foodshare-zero-waste
